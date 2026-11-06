@@ -131,3 +131,13 @@ For enterprise inquiries, private deployments, or custom integrations:
 * **GitHub Profile:** [@sarvasva-dev](https://github.com/sarvasva-dev)
 * **Organization:** Sitekraft Ecosystem
 * **License:** Licensed under standard open and enterprise distribution terms.
+
+---
+
+## 🎬 Viral B2B Growth & Reel Playbook
+
+Want to see how these open-source architectures are packaged into high-ticket client acquisition engines? Check our step-by-step conversion playbook:
+
+👉 [**High-Converting B2B AI & SaaS Reel Playbook (Full Scripts, Hooks & DM Strategy)**](HIGH_CONVERTING_REEL_PLAYBOOK.md)
+
+*Includes complete shot-by-shot video scripts for AI Phone Receptionists, Zero-Commission Restaurant POS, WhatsApp Lead Qualification, and Self-Hosted DocuSign alternatives.*
